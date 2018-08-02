@@ -1,7 +1,7 @@
 # ByteScout-Document-Parser-SDK-C-General-Example
 ByteScout Document Parser SDK – C# – General Example
 
-
+```
 using System;
 using ByteScout.DocumentParser;
 // This example demonstrates document data parsing to JSON and YAML formats.
@@ -45,3 +45,4 @@ namespace GeneralExample
         }
     }
 }
+```
